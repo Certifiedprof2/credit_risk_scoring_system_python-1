@@ -67,7 +67,7 @@ Using these values, the program calculates:
 
 ## 📸 Sample Output
 
-![Credit Risk Scoring system](screenshots/gift1.png)
+![Credit Risk Assessment System](./gift%201.png)
 
 ## 📚 Key Learning Outcomes
 
