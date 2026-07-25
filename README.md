@@ -1,54 +1,115 @@
-💳 PrimeCredit FinTech: Credit Risk Scoring Model
+# 💳 Credit Risk Assessment System
 
-📌 Project Overview
-Whenever digital lending platforms (like Opay, PalmPay, Carbon, or commercial banks) evaluate a loan applicant, they must answer one critical question: "Is this applicant low-risk or high-risk?"
+A beginner-friendly Python project that simulates a simple loan approval process using rule-based business logic. The program evaluates an applicant's financial information against predefined lending criteria to determine basic credit eligibility.
 
-As a Junior Python Developer at PrimeCredit FinTech Ltd., I built this rule-based Credit Risk Scoring System. Designed using core Python fundamentals (Lessons 1–5), this program evaluates an applicant's financial indicators—such as Debt-to-Income (DTI) ratio, total loan exposure, income requirements, and credit history—to automate initial lending decisions and flag high-risk applications for manual review.
+---
 
-🎯 Key Business Logic & Features
-Debt-to-Income (DTI) Calculation: Measures what percentage of the applicant's income goes toward debt servicing.
+## 📌 Project Overview
 
-Dynamic Balance Updates: Updates active loan balances using compound assignment operators after recent repayments.
+Financial institutions assess loan applications using various financial and credit indicators before making lending decisions. This project demonstrates how Python can be used to automate a basic credit risk assessment by applying simple business rules.
 
-Total Exposure Assessment: Calculates total potential liability (Existing Balance + Requested Amount).
+The project was completed as part of my Python learning journey to strengthen my understanding of Python fundamentals and problem-solving.
 
-Multi-Condition Eligibility Checks: Evaluates income limits, minimum credit score thresholds, and employment verification status using Python logical (AND, OR) and comparison operators.
+---
 
-Automated Risk Flagging: Determines whether an application can be auto-approved or requires manual review by the Risk Management Team.
+## Objectives
 
-🛠️ Python Skills Applied
-Data Types & Variables: Strings, Integers, Floats, and Booleans.
+- Build a rule-based credit assessment system.
+- Calculate an applicant's Debt-to-Income (DTI) Ratio.
+- Calculate Total Loan Exposure.
+- Determine income eligibility.
+- Evaluate credit score eligibility.
+- Determine whether an application qualifies for basic approval.
+- Generate a simple credit risk report.
 
-Arithmetic Operations: Percentages, totals, and subtraction updates.
+---
 
-Assignment & Comparison Operators: >= evaluation and -= balance updates.
+## Technologies Used
 
+- Python 3
+- Jupyter Notebook
 
-Logical Operators: Combining rules with and / or conditions.
-============================================================
-             CREDIT RISK SCORING REPORT
-============================================================
+---
 
-Applicant Name: Mary Okoro
+## Python Concepts Demonstrated
 
-Monthly Income: ₦450,000
-Monthly Loan Repayment: ₦120,000
-Debt-to-Income Ratio: 26.67%
+- Variables
+- Data Types
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Boolean Values
+- Mathematical Calculations
+- Print Formatting
 
-Updated Existing Loan Balance: ₦800,000
-Requested Loan Amount: ₦1,500,000
-Total Loan Exposure: ₦2,300,000
+---
 
-Credit Score: 720 (Minimum Required: 700)
-Employment Verified: True
+## Business Logic
 
-------------------------------------------------------------
-ELIGIBILITY VERIFICATION
-------------------------------------------------------------
-Income Requirement Met: True
-Credit Score Requirement Met: True
-Basic Credit Eligibility: True
-Manual Review Required: False
-============================================================
+The system evaluates an applicant using the following criteria:
 
-Formatted Reporting: Clean string formatting for financial metrics.
+- Monthly Income
+- Monthly Loan Repayment
+- Existing Loan Balance
+- Requested Loan Amount
+- Credit Score
+- Employment Verification
+
+Using these values, the program calculates:
+
+- Debt-to-Income Ratio
+- Total Loan Exposure
+- Income Eligibility
+- Credit Score Eligibility
+- Basic Credit Eligibility
+- Manual Review Requirement
+
+## 📸 Sample Output
+
+![Credit Risk Assessment Output](screenshots/output.png)
+
+## 📚 Key Learning Outcomes
+
+Through this project, I gained practical experience with:
+
+- Writing clean Python code
+- Using appropriate data types
+- Performing financial calculations
+- Applying logical conditions
+- Translating business requirements into code
+- Building beginner-friendly Python projects
+
+---
+
+## 🚀 Future Improvements
+
+Potential enhancements include:
+
+- Accepting user input dynamically using `input()`
+- Using conditional statements (`if`, `elif`, `else`) for loan approval decisions
+- Creating reusable functions
+- Adding exception handling
+- Exporting assessment reports to a file
+- Building a graphical user interface (GUI)
+
+---
+
+## 👨‍💻 Author
+
+**Ismaila Aminu Ainoko**
+
+Junior Python Developer | Aspiring Data Analyst
+
+### Skills
+
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+
+---
+
+## 📄 License
+
+This project was created for educational purposes as part of my Python learning journey.
