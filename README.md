@@ -67,7 +67,7 @@ Using these values, the program calculates:
 
 ## 📸 Sample Output
 
-![Credit Risk Assessment Output](screenshots/gift 1.png)
+![Credit Risk Assessment Output](screenshots/gift1.png)
 
 ## 📚 Key Learning Outcomes
 
