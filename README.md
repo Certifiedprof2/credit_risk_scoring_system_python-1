@@ -1,16 +1,12 @@
-# 💳 Credit Risk Assessment System
+#  Credit Risk Assessment System
 
 A beginner-friendly Python project that simulates a simple loan approval process using rule-based business logic. The program evaluates an applicant's financial information against predefined lending criteria to determine basic credit eligibility.
 
----
-
-## 📌 Project Overview
+##  Project Overview
 
 Financial institutions assess loan applications using various financial and credit indicators before making lending decisions. This project demonstrates how Python can be used to automate a basic credit risk assessment by applying simple business rules.
 
 The project was completed as part of my Python learning journey to strengthen my understanding of Python fundamentals and problem-solving.
-
----
 
 ## Objectives
 
@@ -22,14 +18,10 @@ The project was completed as part of my Python learning journey to strengthen my
 - Determine whether an application qualifies for basic approval.
 - Generate a simple credit risk report.
 
----
-
 ## Technologies Used
 
 - Python 3
 - Jupyter Notebook
-
----
 
 ## Python Concepts Demonstrated
 
@@ -42,8 +34,6 @@ The project was completed as part of my Python learning journey to strengthen my
 - Boolean Values
 - Mathematical Calculations
 - Print Formatting
-
----
 
 ## Business Logic
 
@@ -65,7 +55,7 @@ Using these values, the program calculates:
 - Basic Credit Eligibility
 - Manual Review Requirement
 
-## 📸 Sample Output
+##  Sample Output
 
 ![Credit Risk Assessment System](./gift%201.png)
 ![Credit Risk Assessment System](./gift%202.png)
@@ -74,7 +64,7 @@ Using these values, the program calculates:
 ![Credit Risk Assessment System](./gift%205.png)
 ![Credit Risk Assessment System](./gift%206.png)
 
-## 📚 Key Learning Outcomes
+##  Key Learning Outcomes
 
 Through this project, I gained practical experience with:
 
@@ -87,7 +77,7 @@ Through this project, I gained practical experience with:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Potential enhancements include:
 
@@ -100,7 +90,7 @@ Potential enhancements include:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ismaila Aminu Ainoko**
 
@@ -113,8 +103,6 @@ Junior Python Developer | Aspiring Data Analyst
 - Power BI
 - Microsoft Excel
 
----
-
-## 📄 License
+##  License
 
 This project was created for educational purposes as part of my Python learning journey.
